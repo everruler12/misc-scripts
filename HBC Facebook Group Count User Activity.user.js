@@ -101,7 +101,7 @@ function init() {
         data: {
             textarea: '',
             showContainer: false,
-            teachers: ['Improvement Pill', 'Erik Newhard', 'Scott Johnson', 'Ignacio Regazzoli', 'Heba Ayman']
+            teachers: ['Improvement Pill', 'Erik Newhard']
         },
         computed: {},
         methods: {
